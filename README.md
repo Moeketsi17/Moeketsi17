@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Moeketsi17
+- 👋 Hi, I’m @Moeketsi
 - 👀 I’m interested in frontend development 
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on projects and learn more
