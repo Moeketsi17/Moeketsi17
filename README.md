@@ -11,7 +11,7 @@ I help businesses and organisations create web experiences that are easy to use 
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS
 - **CMS:** WordPress, Shopify, Odoo
 - **Automation:** Zapier, Copilot Studio, N8N, Make.com
-- **Other:** Node.js, PHP, #C, REST APIs, Git, Figma
+- **Other:** Node.js, PHP, MySQL, REST APIs, Git, Figma
 
 ## Principles
 
@@ -25,5 +25,5 @@ I help businesses and organisations create web experiences that are easy to use 
 
 - Portfolio: [moeketsil.co.za](https://moeketsil.co.za)
 - LinkedIn: [Moeketsi Lekoana](https://www.linkedin.com/in/moeketsilekoana/)
-- Email/Phone: contact@moeketsil.co.za / +27 67 793 2220
+- Email: contact@moeketsil.co.za /
 
