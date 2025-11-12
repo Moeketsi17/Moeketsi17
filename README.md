@@ -8,7 +8,7 @@ I help businesses and organisations create web experiences that are easy to use 
 
 ## Core Skills
 
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, HTML, CSS
 - **CMS:** WordPress, Shopify, Webflow
 - **Automation:** n8n, Zapier, Make.com
 - **Other:** Node.js, PHP, MySQL, REST APIs, Git, Figma, Photoshop
