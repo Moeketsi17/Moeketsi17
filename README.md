@@ -25,5 +25,5 @@ I help businesses and organisations create web experiences that are easy to use 
 
 - Portfolio: [moeketsil.co.za](https://moeketsil.co.za)
 - LinkedIn: [Moeketsi Lekoana](https://www.linkedin.com/in/moeketsilekoana/)
-- Email: contact@moeketsil.co.za /
+- Email: contact@moeketsil.co.za 
 
