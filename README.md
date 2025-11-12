@@ -10,8 +10,8 @@ I help businesses and organisations create web experiences that are easy to use 
 
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS
 - **CMS:** WordPress, Shopify, Odoo
-- **Automation:** Zapier, Copilot Studio, N8N, Make.com
-- **Other:** Node.js, PHP, MySQL, REST APIs, Git, Figma
+- **Automation:** n8n, Zapier, Make.com
+- **Other:** Node.js, PHP, MySQL, REST APIs, Git, Figma, Photoshop
 
 ## Principles
 
